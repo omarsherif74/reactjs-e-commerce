@@ -1,3 +1,5 @@
+import '../styles/product.css'
+
 function Product(props) {
   return (
     <div className="card" >
